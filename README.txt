@@ -7,4 +7,4 @@
 This is a mini banking management system.
 I hope you like it.
 
-Note : Watch video to see code performance
+Note : Watch the provided video to see the project performance
